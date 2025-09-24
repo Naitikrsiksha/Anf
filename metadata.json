@@ -1,0 +1,5 @@
+{
+  "name": "AN Fractures Clinic",
+  "description": "A mobile web application for AN Fractures Clinic, allowing users to book appointments, view gallery, and get information about the clinic and its doctors.",
+  "requestFramePermissions": []
+}
